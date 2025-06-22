@@ -26,19 +26,19 @@
     <br />
     <!-- 백엔드 Backend -->
     <img
-      src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat-square&logo=Spring Boot&logoColor=white" />
+      src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=flat-square&logo=SpringBoot&logoColor=white" />
     <!-- 프론트엔드 Frontend -->
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=css3&logoColor=white" />
     <img
-      src="https://img.shields.io/badge/Tailwind CSS-06B6D4.svg?style=flat-square&logo=Tailwind CSS&logoColor=white" />
+      src="https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=flat-square&logo=TailwindCSS&logoColor=white" />
     <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=React&logoColor=white" />
     <br />
     <!-- 데이터베이스 DB / DataBase -->
     <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=Oracle&logoColor=white" />
     <!-- 인프라 / 배포 Infrastructure / DevOps -->
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E.svg?style=flat-square&logo=Amazon AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/AmazonAWS-232F3E.svg?style=flat-square&logo=AmazonAWS&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat-square&logo=linux&logoColor=white" />
     <br />
     <!-- 도구 / 협업 Tools / Collaboration -->
